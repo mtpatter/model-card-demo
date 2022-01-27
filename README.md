@@ -4,6 +4,8 @@
 
 How to use Google's model card toolkit and add your own custom fields.
 
+I walk through this tutorial and others here on GitHub and on my [Medium blog](https://maria-patterson.medium.com/).  Here is a friend link for open access to the article on Towards Data Science: [*Create a Custom Model Card with Google’s Model Card Toolkit*](https://towardsdatascience.com/create-a-custom-model-card-with-googles-model-card-toolkit-a1e89a7887b5?sk=97ecb46dab3b8394ccc5d0ab3b6ccf18).  I'll always add friend links on my GitHub tutorials for free Medium access if you don't have a paid Medium membership [(referral link)](https://maria-patterson.medium.com/membership).  
+
 If you find any of this useful, I always appreciate contributions to my Saturday morning [fancy coffee fund](https://github.com/sponsors/mtpatter)!
 
 This repo provides a Docker environment and instructions on how to generate a model card (outside of a Jupyter notebook or colab) using the tensorflow [model card toolkit](https://github.com/tensorflow/model-card-toolkit).
